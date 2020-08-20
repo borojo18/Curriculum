@@ -1,0 +1,38 @@
+{
+    "presentacion": "Hola soy Gilberto bienvenido ",
+    "habilidades": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Java",
+        "C#"
+    ],
+    "formacion": {
+        "primaria": "Llanos de cuiva - Yarumal - 2010",
+        "bachiller": "Institucion Educativa Colombia - Carepa",
+        "carrera": "Ingenieria de Sistemas VIII",
+        "pregrados": [
+            "Universidad Catolica Luis Amigó"
+        ],
+        "no formal": [
+            "Cursos en Udemy",
+            "Cursos en YouTube"
+        ]
+    },
+    "idiomas":"Español - lengua nativa",
+    "idiomas1": "Inglés - intermedio",
+    "mename":"Gilberto Valencia Blandón",
+    "contacto": [
+        "Urbanizacion San Felipe Mz i Casa #2 · Carepa - Antioquia, CO 057850 · (311) 241-0155 "
+    ],
+    "correo": [
+        "Gilberto.valenciabl@amigo.edu.co"
+    ],
+    "trabajo": "Probador y depurador de codigo",
+    "trabajo1": "Metodologias agiles y Scrum",
+    "trabajo2":"Desarrollo de aplicaciones con grupos funcionales",
+    "Descripcion2": "Estudiante de ingeniería de sistemas con habilidades en desarrollo de bases de datos, programación web y gerencia de tecnología; Puntual, colaborativo, autorreflexivo, respetuoso y comprometido. Conocimientos básicos en arduino, java, C#, Manejo de sistemas operativos, redes de datos, Mantenimiento de computadores, atención y servicio al cliente.",
+    "Descripcion": "Ciencia de la computacion - Hacker de sombrero blanco ",
+    "interes": "sigo una serie de películas y programas de televisión de ciencia ficción y fantasía, soy un aspirante a pro-gamer y dedico gran parte de mi tiempo libre a explorar los últimos avances tecnológicos en el mundo."
+
+}
